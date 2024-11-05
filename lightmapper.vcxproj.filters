@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="vs\Common.props" />
+    <None Include="vs\Debug.props" />
+    <None Include="vs\DebugFast.props" />
+    <None Include="vs\Release.props" />
+  </ItemGroup>
+</Project>
